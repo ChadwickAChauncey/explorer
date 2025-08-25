@@ -614,5 +614,12 @@
   "vault_create_table_detail": null,
   "withdraws": null,
   "deletes": null,
-  "vault_delete_table_detail": null
+  "vault_delete_table_detail": null,
+  "general_overview": null,
+  "reputation_level": null,
+  "market_data": null,
+  "supply": null,
+  "circulating_supply": null,
+  "trades_24h": null,
+  "amm_tvl": null
 }

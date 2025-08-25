@@ -635,5 +635,14 @@
   "vault_create_table_detail": "vault for <Asset/>",
   "withdraws": "withdraws",
   "deletes": "deletes",
-  "vault_delete_table_detail": "vault with id"
+  "vault_delete_table_detail": "vault with id",
+  "general_overview": "General Overview",
+  "reputation_level": "Reputation Level",
+  "market_data": "Market Data",
+  "supply": "Supply",
+  "circulating_supply": "Circulating Supply",
+  "trades_24h": "Trades (24H)",
+  "amm_tvl": "AMM TVL"
+
+
 }

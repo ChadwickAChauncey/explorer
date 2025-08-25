@@ -45,6 +45,7 @@ export const TokenHeader = ({
               value={<DomainLink domain={domain} />}
             />
           )}
+          <div>HELLO</div>
           {rate && (
             <TokenTableRow label={t('fee_rate')} value={`${rate * 100}%`} />
           )}
